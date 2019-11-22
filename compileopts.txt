@@ -1,0 +1,1 @@
+gcc -shared -fpic -o libtest.so -I/usr/java/jdk1.8.0_51/include/ -I/usr/java/jdk1.8.0_51/include/linux/ jnit.c

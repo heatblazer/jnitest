@@ -1,0 +1,10 @@
+/usr/java/jdk1.8.0_51/include
+/usr/java/jdk1.8.0_51/include/classfile_constants.h
+/usr/java/jdk1.8.0_51/include/jawt.h
+/usr/java/jdk1.8.0_51/include/jdwpTransport.h
+/usr/java/jdk1.8.0_51/include/jni.h
+/usr/java/jdk1.8.0_51/include/jvmti.h
+/usr/java/jdk1.8.0_51/include/jvmticmlr.h
+/usr/java/jdk1.8.0_51/include/linux
+/usr/java/jdk1.8.0_51/include/linux/jawt_md.h
+/usr/java/jdk1.8.0_51/include/linux/jni_md.h
